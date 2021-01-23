@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(15,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(26,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(36,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(49,19): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(73,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(91,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(92,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(100,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(103,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(121,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\danie\source\repos\CIT_238 Assignment 2\CIT_238 Assignment 2\main.cpp(130,20): warning C4018:  '<': signed/unsigned mismatch
+  CIT_238 Assignment 2.vcxproj -> C:\Users\danie\source\repos\CIT_238 Assignment 2\Debug\CIT_238 Assignment 2.exe

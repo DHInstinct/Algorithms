@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\danie\OneDrive - Marshall University\Spring 2020\CIT 238 Assignment 3\CIT 238 Assignment 3\SortFunctions.h(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\OneDrive - Marshall University\Spring 2020\CIT 238 Assignment 3\CIT 238 Assignment 3\SortFunctions.h(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\OneDrive - Marshall University\Spring 2020\CIT 238 Assignment 3\CIT 238 Assignment 3\SortFunctions.h(211,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\OneDrive - Marshall University\Spring 2020\CIT 238 Assignment 3\CIT 238 Assignment 3\SortFunctions.h(214,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\OneDrive - Marshall University\Spring 2020\CIT 238 Assignment 3\CIT 238 Assignment 3\SortFunctions.h(217,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\OneDrive - Marshall University\Spring 2020\CIT 238 Assignment 3\CIT 238 Assignment 3\SortFunctions.h(234,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\OneDrive - Marshall University\Spring 2020\CIT 238 Assignment 3\CIT 238 Assignment 3\SortFunctions.h(250,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\danie\OneDrive - Marshall University\Spring 2020\CIT 238 Assignment 3\CIT 238 Assignment 3\main.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\danie\OneDrive - Marshall University\Spring 2020\CIT 238 Assignment 3\CIT 238 Assignment 3\main.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+  CIT 238 Assignment 3.vcxproj -> C:\Users\danie\OneDrive - Marshall University\Spring 2020\CIT 238 Assignment 3\Debug\CIT 238 Assignment 3.exe
