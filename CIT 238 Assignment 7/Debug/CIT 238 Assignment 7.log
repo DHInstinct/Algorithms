@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\danie\OneDrive\Desktop\CIT 238 Assignment 7\CIT 238 Assignment 7\main.cpp(96,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Desktop\CIT 238 Assignment 7\CIT 238 Assignment 7\main.cpp(105,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Desktop\CIT 238 Assignment 7\CIT 238 Assignment 7\main.cpp(122,18): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\danie\OneDrive\Desktop\CIT 238 Assignment 7\CIT 238 Assignment 7\main.cpp(122,37): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  CIT 238 Assignment 7.vcxproj -> C:\Users\danie\OneDrive\Desktop\CIT 238 Assignment 7\Debug\CIT 238 Assignment 7.exe

@@ -1,0 +1,3 @@
+﻿  GridGraph.cpp
+C:\Users\danie\OneDrive\Desktop\Graphs\GridGraph.cpp(319,52): error C2677: binary '==': no global operator found which takes type 'Color' (or there is no acceptable conversion)
+C:\Users\danie\OneDrive\Desktop\Graphs\GridGraph.cpp(379,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
