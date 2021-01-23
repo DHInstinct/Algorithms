@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\danie\OneDrive\Desktop\CIT238 Assignment 5\CIT238 Assignment 5\main.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\danie\OneDrive\Desktop\CIT238 Assignment 5\CIT238 Assignment 5\BinarySearchTree.h(274,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danie\OneDrive\Desktop\CIT238 Assignment 5\CIT238 Assignment 5\BinarySearchTree.h(267): message : while compiling class template member function 'void BinarySearchTree<std::string,double>::BalanceTree(void)'
+C:\Users\danie\OneDrive\Desktop\CIT238 Assignment 5\CIT238 Assignment 5\main.cpp(46): message : see reference to function template instantiation 'void BinarySearchTree<std::string,double>::BalanceTree(void)' being compiled
+C:\Users\danie\OneDrive\Desktop\CIT238 Assignment 5\CIT238 Assignment 5\main.cpp(26): message : see reference to class template instantiation 'BinarySearchTree<std::string,double>' being compiled
+  CIT238 Assignment 5.vcxproj -> C:\Users\danie\OneDrive\Desktop\CIT238 Assignment 5\Debug\CIT238 Assignment 5.exe
